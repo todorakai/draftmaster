@@ -1,0 +1,50 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" fill="url(#gradient)" stroke="url(#borderGradient)" stroke-width="3"/>
+  
+  <!-- Gradient Definitions -->
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#60a5fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a78bfa;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Chess Knight Piece (representing strategy) -->
+  <g transform="translate(100, 100)">
+    <!-- Knight Head -->
+    <path d="M -20 -35 L -15 -45 L -5 -50 L 5 -48 L 10 -42 L 12 -35 L 10 -30 L 5 -28 L -5 -30 L -15 -32 Z" 
+          fill="white" opacity="0.95"/>
+    
+    <!-- Knight Neck -->
+    <path d="M -5 -28 L 5 -28 L 8 -10 L -8 -10 Z" 
+          fill="white" opacity="0.95"/>
+    
+    <!-- Knight Base -->
+    <rect x="-25" y="-10" width="50" height="8" rx="2" 
+          fill="white" opacity="0.95"/>
+    
+    <!-- Eye -->
+    <circle cx="-5" cy="-40" r="2" fill="#3b82f6"/>
+    
+    <!-- Strategic Lines (representing analysis) -->
+    <line x1="20" y1="-25" x2="35" y2="-35" stroke="white" stroke-width="2" opacity="0.7"/>
+    <line x1="20" y1="-15" x2="35" y2="-15" stroke="white" stroke-width="2" opacity="0.7"/>
+    <line x1="20" y1="-5" x2="35" y2="5" stroke="white" stroke-width="2" opacity="0.7"/>
+    
+    <!-- AI Circuit Pattern -->
+    <circle cx="30" cy="-35" r="3" fill="white" opacity="0.8"/>
+    <circle cx="38" cy="-15" r="3" fill="white" opacity="0.8"/>
+    <circle cx="38" cy="5" r="3" fill="white" opacity="0.8"/>
+  </g>
+  
+  <!-- Bottom Text -->
+  <text x="100" y="165" font-family="Arial, sans-serif" font-size="18" font-weight="bold" 
+        fill="white" text-anchor="middle">DRAFT</text>
+  <text x="100" y="182" font-family="Arial, sans-serif" font-size="14" font-weight="normal" 
+        fill="white" text-anchor="middle" opacity="0.9">MASTER</text>
+</svg>

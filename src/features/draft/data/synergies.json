@@ -1,0 +1,378 @@
+{
+    "synergies": [
+        {
+            "championId": "yasuo",
+            "partnerChampionId": "malphite",
+            "score": 95,
+            "description": "Malphite R enables Yasuo R knockup combo"
+        },
+        {
+            "championId": "yasuo",
+            "partnerChampionId": "diana",
+            "score": 90,
+            "description": "Diana R groups enemies for Yasuo R"
+        },
+        {
+            "championId": "yasuo",
+            "partnerChampionId": "gragas",
+            "score": 85,
+            "description": "Gragas R displaces enemies for Yasuo R"
+        },
+        {
+            "championId": "yasuo",
+            "partnerChampionId": "alistar",
+            "score": 88,
+            "description": "Alistar W-Q combo enables Yasuo R"
+        },
+        {
+            "championId": "yone",
+            "partnerChampionId": "orianna",
+            "score": 85,
+            "description": "Yone R groups enemies for Orianna R"
+        },
+        {
+            "championId": "orianna",
+            "partnerChampionId": "malphite",
+            "score": 92,
+            "description": "Malphite R delivery for Orianna ball"
+        },
+        {
+            "championId": "orianna",
+            "partnerChampionId": "hecarim",
+            "score": 88,
+            "description": "Hecarim R engage with Orianna ball"
+        },
+        {
+            "championId": "jinx",
+            "partnerChampionId": "lulu",
+            "score": 85,
+            "description": "Lulu shields and buffs hypercarry Jinx"
+        },
+        {
+            "championId": "jinx",
+            "partnerChampionId": "thresh",
+            "score": 80,
+            "description": "Thresh peel and engage for Jinx"
+        },
+        {
+            "championId": "kaisa",
+            "partnerChampionId": "nautilus",
+            "score": 88,
+            "description": "Nautilus CC chain enables Kai'Sa burst"
+        },
+        {
+            "championId": "kaisa",
+            "partnerChampionId": "leona",
+            "score": 86,
+            "description": "Leona lockdown for Kai'Sa follow-up"
+        },
+        {
+            "championId": "lucian",
+            "partnerChampionId": "nami",
+            "score": 90,
+            "description": "Nami E empowers Lucian passive procs"
+        },
+        {
+            "championId": "lucian",
+            "partnerChampionId": "braum",
+            "score": 85,
+            "description": "Braum passive stacks with Lucian passive"
+        },
+        {
+            "championId": "xayah",
+            "partnerChampionId": "rakan",
+            "score": 95,
+            "description": "Lover's duo with enhanced abilities"
+        },
+        {
+            "championId": "caitlyn",
+            "partnerChampionId": "morgana",
+            "score": 88,
+            "description": "Morgana Q into Caitlyn trap combo"
+        },
+        {
+            "championId": "caitlyn",
+            "partnerChampionId": "lux",
+            "score": 85,
+            "description": "Lux Q into Caitlyn trap combo"
+        },
+        {
+            "championId": "ashe",
+            "partnerChampionId": "leona",
+            "score": 82,
+            "description": "Double engage with global and dive"
+        },
+        {
+            "championId": "jhin",
+            "partnerChampionId": "thresh",
+            "score": 80,
+            "description": "Thresh hook into Jhin W root chain"
+        },
+        {
+            "championId": "draven",
+            "partnerChampionId": "leona",
+            "score": 85,
+            "description": "Leona all-in enables Draven snowball"
+        },
+        {
+            "championId": "vayne",
+            "partnerChampionId": "lulu",
+            "score": 88,
+            "description": "Lulu protects and buffs Vayne scaling"
+        },
+        {
+            "championId": "leesin",
+            "partnerChampionId": "yasuo",
+            "score": 82,
+            "description": "Lee Sin R kick enables Yasuo R"
+        },
+        {
+            "championId": "jarvaniv",
+            "partnerChampionId": "orianna",
+            "score": 90,
+            "description": "J4 R trap with Orianna ball combo"
+        },
+        {
+            "championId": "jarvaniv",
+            "partnerChampionId": "syndra",
+            "score": 85,
+            "description": "J4 R trap for Syndra burst"
+        },
+        {
+            "championId": "sejuani",
+            "partnerChampionId": "renekton",
+            "score": 80,
+            "description": "Melee synergy for Sejuani passive"
+        },
+        {
+            "championId": "amumu",
+            "partnerChampionId": "missfortune",
+            "score": 92,
+            "description": "Amumu R into MF R wombo combo"
+        },
+        {
+            "championId": "amumu",
+            "partnerChampionId": "katarina",
+            "score": 88,
+            "description": "Amumu R enables Katarina R channel"
+        },
+        {
+            "championId": "kennen",
+            "partnerChampionId": "jarvaniv",
+            "score": 85,
+            "description": "J4 R trap for Kennen R"
+        },
+        {
+            "championId": "galio",
+            "partnerChampionId": "camille",
+            "score": 88,
+            "description": "Galio R on Camille dive"
+        },
+        {
+            "championId": "shen",
+            "partnerChampionId": "nocturne",
+            "score": 85,
+            "description": "Global pressure with Shen R on Nocturne"
+        },
+        {
+            "championId": "thresh",
+            "partnerChampionId": "kalista",
+            "score": 90,
+            "description": "Kalista R into Thresh engage"
+        },
+        {
+            "championId": "rengar",
+            "partnerChampionId": "ivern",
+            "score": 85,
+            "description": "Ivern bushes enable Rengar passive"
+        },
+        {
+            "championId": "zac",
+            "partnerChampionId": "yasuo",
+            "score": 88,
+            "description": "Zac E knockup enables Yasuo R"
+        }
+    ],
+    "counters": [
+        {
+            "championId": "yasuo",
+            "counterChampionId": "rammus",
+            "score": 85,
+            "description": "Rammus armor stacking counters Yasuo AD"
+        },
+        {
+            "championId": "yasuo",
+            "counterChampionId": "malphite",
+            "score": 80,
+            "description": "Malphite armor and poke counters Yasuo"
+        },
+        {
+            "championId": "zed",
+            "counterChampionId": "lissandra",
+            "score": 88,
+            "description": "Lissandra R self-cast negates Zed R"
+        },
+        {
+            "championId": "zed",
+            "counterChampionId": "malzahar",
+            "score": 85,
+            "description": "Malzahar R suppression stops Zed"
+        },
+        {
+            "championId": "katarina",
+            "counterChampionId": "kassadin",
+            "score": 82,
+            "description": "Kassadin Q interrupts Katarina R"
+        },
+        {
+            "championId": "katarina",
+            "counterChampionId": "diana",
+            "score": 78,
+            "description": "Diana E pull interrupts Katarina R"
+        },
+        {
+            "championId": "vayne",
+            "counterChampionId": "caitlyn",
+            "score": 80,
+            "description": "Caitlyn range bullies Vayne early"
+        },
+        {
+            "championId": "vayne",
+            "counterChampionId": "draven",
+            "score": 82,
+            "description": "Draven early damage crushes Vayne"
+        },
+        {
+            "championId": "jinx",
+            "counterChampionId": "draven",
+            "score": 78,
+            "description": "Draven aggression punishes immobile Jinx"
+        },
+        {
+            "championId": "kaisa",
+            "counterChampionId": "caitlyn",
+            "score": 75,
+            "description": "Caitlyn range zones Kai'Sa"
+        },
+        {
+            "championId": "lucian",
+            "counterChampionId": "vayne",
+            "score": 72,
+            "description": "Vayne outscales Lucian late game"
+        },
+        {
+            "championId": "darius",
+            "counterChampionId": "vayne",
+            "score": 85,
+            "description": "Vayne kites and shreds Darius"
+        },
+        {
+            "championId": "darius",
+            "counterChampionId": "quinn",
+            "score": 82,
+            "description": "Quinn range and disengage counters Darius"
+        },
+        {
+            "championId": "garen",
+            "counterChampionId": "vayne",
+            "score": 88,
+            "description": "Vayne true damage ignores Garen tankiness"
+        },
+        {
+            "championId": "fiora",
+            "counterChampionId": "malphite",
+            "score": 75,
+            "description": "Malphite armor stacking vs Fiora AD"
+        },
+        {
+            "championId": "irelia",
+            "counterChampionId": "tryndamere",
+            "score": 78,
+            "description": "Tryndamere R ignores Irelia burst"
+        },
+        {
+            "championId": "akali",
+            "counterChampionId": "galio",
+            "score": 80,
+            "description": "Galio MR and taunt counter Akali"
+        },
+        {
+            "championId": "leblanc",
+            "counterChampionId": "galio",
+            "score": 82,
+            "description": "Galio MR and waveclear counter LeBlanc"
+        },
+        {
+            "championId": "syndra",
+            "counterChampionId": "fizz",
+            "score": 75,
+            "description": "Fizz E dodges Syndra abilities"
+        },
+        {
+            "championId": "orianna",
+            "counterChampionId": "fizz",
+            "score": 78,
+            "description": "Fizz mobility and burst counter Orianna"
+        },
+        {
+            "championId": "leesin",
+            "counterChampionId": "rammus",
+            "score": 80,
+            "description": "Rammus armor counters Lee Sin AD"
+        },
+        {
+            "championId": "khazix",
+            "counterChampionId": "rammus",
+            "score": 82,
+            "description": "Rammus armor counters Kha'Zix AD"
+        },
+        {
+            "championId": "rengar",
+            "counterChampionId": "rammus",
+            "score": 85,
+            "description": "Rammus armor and taunt counter Rengar"
+        },
+        {
+            "championId": "evelynn",
+            "counterChampionId": "leesin",
+            "score": 78,
+            "description": "Lee Sin E reveals Evelynn stealth"
+        },
+        {
+            "championId": "thresh",
+            "counterChampionId": "morgana",
+            "score": 90,
+            "description": "Morgana E blocks Thresh hook"
+        },
+        {
+            "championId": "blitzcrank",
+            "counterChampionId": "morgana",
+            "score": 92,
+            "description": "Morgana E blocks Blitzcrank hook"
+        },
+        {
+            "championId": "nautilus",
+            "counterChampionId": "morgana",
+            "score": 88,
+            "description": "Morgana E blocks Nautilus CC"
+        },
+        {
+            "championId": "leona",
+            "counterChampionId": "morgana",
+            "score": 85,
+            "description": "Morgana E blocks Leona engage"
+        },
+        {
+            "championId": "pyke",
+            "counterChampionId": "alistar",
+            "score": 80,
+            "description": "Alistar tankiness and CC counter Pyke"
+        },
+        {
+            "championId": "yuumi",
+            "counterChampionId": "nautilus",
+            "score": 82,
+            "description": "Nautilus CC punishes Yuumi attachment"
+        }
+    ]
+}

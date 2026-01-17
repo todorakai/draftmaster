@@ -1,0 +1,30 @@
+{
+    "name": "Draft Master - AI-Powered LoL Draft Assistant",
+    "short_name": "Draft Master",
+    "description": "Master your League of Legends draft phase with AI-powered champion recommendations and team synergy analysis",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#09090b",
+    "theme_color": "#3b82f6",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/logo.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        }
+    ],
+    "categories": [
+        "games",
+        "sports",
+        "utilities"
+    ],
+    "screenshots": []
+}
