@@ -91,7 +91,6 @@ export default function DraftPage() {
         <div className="container mx-auto space-y-6 p-6">
             <div className="flex items-center justify-between">
                 <div className="flex items-center gap-3">
-                    <img src="/logo.svg" alt="Draft Master" className="h-10 w-10" />
                     <h1 className="text-2xl font-bold">Draft Master</h1>
                 </div>
                 <div className="flex gap-2">
